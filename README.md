@@ -7,4 +7,4 @@ https://nbviewer.org/github/talinm23/data_analysis/blob/main/Data_Analysis_EDA_C
 
 
 2. More visualizations on Tableau
-https://public.tableau.com/app/profile/talin.mirzakhanian/viz/Sales-ProfitManagementDashboard/Dashboard1
+https://public.tableau.com/app/profile/talin.mirzakhanian
