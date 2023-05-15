@@ -10,5 +10,5 @@ https://nbviewer.org/github/talinm23/data_analysis/blob/main/Data_Analysis_EDA_C
 https://public.tableau.com/app/profile/talin.mirzakhanian
 
 
-3. https://www.oneilglobaladvisors.com/research
+3. Quant briefs at O'Neil Global Advisors: https://www.oneilglobaladvisors.com/research
 
